@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning And Deep Learning**
 
-- 📝 I regularly write articles on [https://medium.com/@harsh221upadhyay](https://medium.com/@harsh221upadhyay)
+- 📝 I write articles on [https://medium.com/@harsh221upadhyay](https://medium.com/@harsh221upadhyay)
 
 - 💬 Ask me about **Data Cleaning, Data Visualization**
 
