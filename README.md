@@ -10,7 +10,7 @@
 
 - 📝 I write articles on [https://medium.com/@harsh221upadhyay](https://medium.com/@harsh221upadhyay)
 
-- 💬 Ask me about **Data Cleaning, Data Visualization**
+- 💬 Ask me about **Data Science, Machine Learning**
 
 - 📫 How to reach me **Harsh221upadhyay@gmail.com**
 
