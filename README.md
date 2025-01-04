@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1> 
+<h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">"Embarking on a Path: Progressing from Beginner to Expert in Data Science and Machine Learning"</h3>   
 <img align="center" alt="Coding" width="1000" height = "500" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/data-science-2-mP4XPq0y3wUKory9.gif"> 
 
